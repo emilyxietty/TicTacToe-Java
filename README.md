@@ -1,5 +1,5 @@
 # TicTacToe
-This is a project that I created this past year for my Data Structures and Algorithm course. It's an interactive tic tac toe game between a human (user) and computer.
+This is a project that I created this past year for my Data Structures and Algorithm course. It's an interactive tic tac toe game between a human (user) and computer. This program demonstrates an understanding of hash tables and optimizing time complexity.
 
 Paramaters
 ---------
