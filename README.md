@@ -11,3 +11,5 @@ The game ends and outputs the final outcome in the following situations:
 Development Environment
 ---------
 Eclipse IDE and IntelliJ IDE were used in the project.
+
+![ttt](https://user-images.githubusercontent.com/40601891/149225006-dd58cf83-f073-424d-b51b-feece884e01e.gif)
